@@ -1,0 +1,12 @@
+{
+  "name": "سحاب | تطبيق طقس متطور",
+  "description": "تطبيق طقس جميل وبسيط يوفر معلومات دقيقة وتوقعات مفصلة مع لمسة من الذكاء الاصطناعي.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI-powered weather insights",
+    "Real-time location weather",
+    "5-day forecast"
+  ]
+}
